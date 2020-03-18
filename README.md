@@ -1,2 +1,2 @@
 # almuerzo-sitios-web
-Proyecto paraq simular un proyecto
+Proyecto para simular un proyecto
